@@ -1,5 +1,8 @@
 _repo: Mireio-A-Provencal-Poem_56008
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56008-h/images/cover.jpg
 creator:
   author:
     agent_name: Mistral, Frédéric
@@ -14,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Frédéric_Mistral
     - http://en.wikipedia.org/wiki/Frédéric_Mistral
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56008#Mireio-A-Provencal-Poem
 gutenberg_issued: '2017-11-19'
 gutenberg_type: Text
 identifiers:
