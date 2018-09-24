@@ -1,0 +1,28 @@
+_repo: Mireio-A-Provencal-Poem_56008
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mistral, Frédéric
+    aliases:
+    - Mistral, Joseph Etienne Frédéric
+    - Mistral, Frederic
+    birthdate: 1830
+    deathdate: 1914
+    gutenberg_agent_id: '2302'
+    url: http://www.gutenberg.org/2009/agents/2302
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Frédéric_Mistral
+    - http://en.wikipedia.org/wiki/Frédéric_Mistral
+description: ''
+gutenberg_issued: '2017-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56008'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mirèio, A Provençal Poem
+url: http://www.gutenberg.org/ebooks/56008
